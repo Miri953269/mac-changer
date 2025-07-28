@@ -45,5 +45,5 @@ Root privileges required for changing MAC address.
 
 👨‍💻 Author
 Agazade Mirabbas
-[LinkedIn](www.linkedin.com/in/mirabbas-agazade-a96242299/) | [GitHub](https://github.com/Miri953269)
+[LinkedIn](https://linkedin.com/in/mirabbas-agazade-a96242299/) | [GitHub](https://github.com/Miri953269)
 
