@@ -14,7 +14,7 @@ A simple yet effective **MAC Address Changer Tool** built in Python for Red Team
 ## 📦 Installation
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/YourUsername/mac_changer.git
+    git clone https://github.com/Miri953269/mac_changer.git
     cd mac_changer
     ```
 
@@ -45,5 +45,5 @@ Root privileges required for changing MAC address.
 
 👨‍💻 Author
 Agazade Mirabbas
-Follow me on LinkedIn | GitHub
+[LinkedIn](www.linkedin.com/in/mirabbas-agazade-a96242299/) | [GitHub](https://github.com/Miri953269)
 
